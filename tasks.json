@@ -1,0 +1,30 @@
+[
+    {
+        "deadline": "2026-04-25",
+        "id": 1,
+        "priority": 1,
+        "status": "In Progress",
+        "title": "Learn OOP"
+    },
+    {
+        "deadline": "2026-04-30",
+        "id": 2,
+        "priority": 1,
+        "status": "Completed",
+        "title": "DSA Practice"
+    },
+    {
+        "deadline": "2026-05-05",
+        "id": 4,
+        "priority": 3,
+        "status": "Pending",
+        "title": "Web Dev"
+    },
+    {
+        "deadline": "2026-06-01",
+        "id": 5,
+        "priority": 1,
+        "status": "Pending",
+        "title": "System Design"
+    }
+]
